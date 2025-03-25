@@ -1,4 +1,3 @@
-```markdown
 # Simple Calculator (HTML + CSS + JavaScript)
 
 This is a basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations and a few utility functions.
@@ -41,4 +40,3 @@ This is a basic web-based calculator built using **HTML**, **CSS**, and **JavaSc
 - Uses `eval()` for expression evaluation (suitable for simple usage, but avoid for sensitive apps).
 - Styled with a dark theme.
 
----
