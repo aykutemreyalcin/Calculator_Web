@@ -29,3 +29,11 @@
     color:white;
     font-size: x-large;
 }
+
+#symbol_equal{
+    width: 100px;
+    height: 50px;
+    background-color:#181C14;
+    color:white;
+    font-size: larger;
+}
