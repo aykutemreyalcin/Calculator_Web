@@ -1,4 +1,4 @@
-.symbol{
+#symbol{
     width: 50px;
     height: 50px;
     background-color:#181C14;
@@ -6,7 +6,7 @@
     font-size: larger;
 }
 
-.number{
+#number{
     width: 50px;
     height: 50px;
     background-color: #3C3D37;
@@ -14,7 +14,7 @@
     font-size: larger;
 }
 
-.symbol_c{
+#symbol_c{
     width: 50px;
     height: 50px;
     background-color:#181C14;
@@ -22,9 +22,10 @@
     font-size: larger;
 }
 
-.text{
+#display{
     width: 194px;
     height: 50px;
     background-color: #3C3D37;
     color:white;
+    font-size: x-large;
 }
